@@ -1,4 +1,4 @@
-## Daily Wallpaper via [bing.com](https://cn.bing.com/)
+## Daily Wallpaper via [Bing.com](https://cn.bing.com/)
 
 ![](https://cn.bing.com/th?id=OHR.ParalympicCurling_EN-US6499596752_UHD.jpg&w=1000)Today: [The National Aquatics Center in Beijing, China (© Han Haidan/China News Service via Getty Images)](https://cn.bing.com/th?id=OHR.ParalympicCurling_EN-US6499596752_UHD.jpg)
 |      |      |      |
