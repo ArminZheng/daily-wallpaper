@@ -1,6 +1,6 @@
 package com.arminzheng.wallpaper;
 
-import com.arminzheng.wallpaper.pojo.Image;
+import com.arminzheng.wallpaper.domain.Image;
 import com.arminzheng.wallpaper.util.FileUtils;
 import com.arminzheng.wallpaper.util.HttpUtils;
 import com.google.gson.JsonArray;

@@ -1,6 +1,6 @@
 package com.arminzheng.wallpaper.util;
 
-import com.arminzheng.wallpaper.pojo.Image;
+import com.arminzheng.wallpaper.domain.Image;
 
 import java.io.IOException;
 import java.nio.file.Files;

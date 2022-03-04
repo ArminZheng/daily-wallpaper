@@ -1,4 +1,4 @@
-package com.arminzheng.wallpaper.pojo;
+package com.arminzheng.wallpaper.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
