@@ -38,8 +38,9 @@ public class Wallpaper {
 
   private static void writeHtml(Image image) throws IOException {
     String index =
-        new String(Files.readAllBytes(Paths.get("wallpaper.html")), StandardCharsets.UTF_8);
-    index = index.replace("${url}", image.getUrl()).replace("${title}", image.getTitle());
+        new String(Files.readAllBytes(Paths.get("wallpaper.html")), StandardCharsets.UTF_8)
+            .replace("${url}", image.getUrl())
+            .replace("${title}", image.getTitle() + " " + image.getDate());
     Path indexPath = Paths.get("index.html");
     Files.deleteIfExists(indexPath);
     Files.createFile(indexPath);
