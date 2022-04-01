@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-04-01 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg) 
+
 2022-03-31 | [Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg) 
 
 2022-03-30 | [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg) 
