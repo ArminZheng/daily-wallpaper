@@ -8,6 +8,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -15,6 +16,7 @@ import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
+import java.util.Properties;
 import java.util.stream.Collectors;
 
 /**
@@ -25,10 +27,19 @@ import java.util.stream.Collectors;
  */
 public class Wallpaper {
 
-  private static final String BING_API =
-      "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
+  static {
+    Properties env = new Properties();
+    try(InputStream inputStream = Wallpaper.class.getResourceAsStream("/wallpaper.properties")) {
+      env.load(inputStream);
+      BING_API = env.getProperty("bingUrl");
+      URL_PREFIX = env.getProperty("urlPrefix");
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
 
-  private static final String BING_URL = "https://cn.bing.com";
+  private static String BING_API;
+  private static String URL_PREFIX;
 
   public static void main(String[] args) throws IOException {
     Image image = currentDailyWallpaper();
@@ -62,7 +73,7 @@ public class Wallpaper {
     JsonArray images = target.getAsJsonArray("images");
     target = images.get(0).getAsJsonObject();
 
-    String url = BING_URL + target.get("url").getAsString();
+    String url = URL_PREFIX + target.get("url").getAsString();
     url = url.substring(0, url.indexOf("&"));
 
     String startdate = target.get("startdate").getAsString();
