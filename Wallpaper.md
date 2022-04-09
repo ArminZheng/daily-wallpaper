@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-04-09 | [Arvada Skatepark, Arvada, Colorado (© Jon Paciaroni/Getty Images)](https://cn.bing.com/th?id=OHR.LightPainting_EN-US4249414714_UHD.jpg) 
+
 2022-04-08 | [Coast near Ponta Delgada, Madeira, Portugal (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg) 
 
 2022-04-07 | [Old town of Málaga, Spain (© Sean Pavone Photo/Getty Images)](https://cn.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg) 
