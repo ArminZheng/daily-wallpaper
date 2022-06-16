@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-06-16 | [Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg) 
+
 2022-06-15 | [Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images)](https://cn.bing.com/th?id=OHR.ClingmansDome_EN-US8094094597_UHD.jpg) 
 
 2022-06-14 | [The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg) 
