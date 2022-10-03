@@ -38,5 +38,5 @@ jobs:
           git config --local user.email "$COMMIT_EMAIL"
           git config --local user.name "arminzheng"
           git add -A
-          git commit -m "update daily paper"
+          git commit -m "update daily wallpaper"
           git push origin main

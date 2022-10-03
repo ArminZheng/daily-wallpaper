@@ -1,9 +1,5 @@
 package com.arminzheng.wallpaper.domain;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-
 import java.util.Objects;
 
 /**
@@ -12,14 +8,20 @@ import java.util.Objects;
  * @author az
  * @version 2022/2/27
  */
-@Data
-@NoArgsConstructor
-@AllArgsConstructor
 public class Image {
 
   private String title;
   private String date;
   private String url;
+
+  public Image(String title, String date, String url) {
+    this.title = title;
+    this.date = date;
+    this.url = url;
+  }
+
+  public Image() {
+  }
 
   @Override
   public String toString() {
@@ -56,5 +58,29 @@ public class Image {
     return Objects.equals(title, images.title)
         && Objects.equals(date, images.date)
         && Objects.equals(url, images.url);
+  }
+
+  public String getTitle() {
+    return this.title;
+  }
+
+  public String getDate() {
+    return this.date;
+  }
+
+  public String getUrl() {
+    return this.url;
+  }
+
+  public void setTitle(String title) {
+    this.title = title;
+  }
+
+  public void setDate(String date) {
+    this.date = date;
+  }
+
+  public void setUrl(String url) {
+    this.url = url;
   }
 }
