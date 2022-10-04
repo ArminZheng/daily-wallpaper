@@ -8,7 +8,7 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-#    if: github.event.repository.owner.id == github.event.sender.id
+    if: github.event.repository.owner.id == github.event.sender.id
 
     steps:
       - name: Checkout
@@ -23,7 +23,7 @@ jobs:
         run: mvn -B package --file pom.xml
 
       - name: Run Java Application
-        run: java -jar target/daily-wallpaper-1.0.0.jar
+        run: java -jar target/daily-wallpaper.jar
 
       - name: Commit files
         env:
@@ -38,5 +38,5 @@ jobs:
           git config --local user.email "$COMMIT_EMAIL"
           git config --local user.name "arminzheng"
           git add -A
-          git commit -m "update daily wallpaper"
+          git commit -m "feat:Update Daily Wallpaper"
           git push origin main
