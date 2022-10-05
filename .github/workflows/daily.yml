@@ -3,7 +3,7 @@
 name: Java CI with Maven
 on:
   schedule:
-    # UTC
+    # UTC time need adjust
     - cron: '0 9 * * *'
 jobs:
   build-and-deploy:
