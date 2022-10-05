@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-10-05 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg) 
+
 2022-10-02 | [仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images)](https://cn.bing.com/th?id=OHR.FairyGlen_ZH-CN4521633106_UHD.jpg) 
 
 2022-09-26 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg) 
