@@ -4,12 +4,13 @@ name: Java CI with Maven
 on:
   push:
   schedule:
-    # UTC time need adjust
+    ## UTC time need adjust
     - cron: '30 8 * * *'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id
+    ## may cause "This job was skipped"
+    # if: github.event.repository.owner.id == github.event.sender.id
 
     steps:
       - name: Checkout
