@@ -5,7 +5,7 @@ on:
   push:
   schedule:
     # UTC time need adjust
-    - cron: '0 9 * * *'
+    - cron: '30 8 * * *'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -28,16 +28,21 @@ jobs:
 
       - name: Commit files
         env:
-          ACTION_WORK_KEY: ${{ secrets.DAILY }}
+          #          ACTION_WORK_KEY: ${{ secrets.DAILY }}
           COMMIT_EMAIL: ${{ secrets.EMAIL }}
         run: |
-          mkdir -p ~/.ssh
-          echo "$ACTION_WORK_KEY" > ~/.ssh/id_rsa
-          chmod 700 ~/.ssh
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --local user.email "$COMMIT_EMAIL"
           git config --local user.name "arminzheng"
           git add -A
           git commit -m "feat:Update Daily Wallpaper"
-          git push origin main
+      #          mkdir -p ~/.ssh
+      #          echo "$ACTION_WORK_KEY" > ~/.ssh/id_rsa
+      #          chmod 700 ~/.ssh
+      #          chmod 600 ~/.ssh/id_rsa
+      #          ssh-keyscan github.com >> ~/.ssh/known_hosts
+      #          git push origin main
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.DAILY }}
+          branch: main
