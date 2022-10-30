@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-10-30 | [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg) 
+
 2022-10-29 | [Sea angel (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg) 
 
 2022-10-28 | [Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)](https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg) 
