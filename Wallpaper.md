@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-11-10 | [Rock formations in Badlands National Park during a lightning storm, South Dakota (© DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg) 
+
 2022-11-09 | [European hedgehog in Sussex, England (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg) 
 
 2022-11-08 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://cn.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg) 
