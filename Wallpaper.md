@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-12-16 | [Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg) 
+
 2022-12-15 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg) 
 
 2022-12-14 | [Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona (© John Cancalosi/Minden Pictures)](https://cn.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg) 
