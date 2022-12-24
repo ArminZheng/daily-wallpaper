@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2022-12-24 | [Amalga Harbor, Alaska (© Mark Kelley/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg) 
+
 2022-12-23 | [Gentoo penguins in Antarctica (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg) 
 
 2022-12-22 | [Christmas tree of the Galeries Lafayette in Paris, France (© Geoffroy Van der Hasselt/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg) 
