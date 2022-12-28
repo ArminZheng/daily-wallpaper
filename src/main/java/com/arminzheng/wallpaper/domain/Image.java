@@ -16,12 +16,14 @@ public class Image {
     private String url;
 
     public Image(String title, String desc, String date, String url) {
+
         this.title = title;
         this.desc = desc;
         this.date = date;
         this.url = url;
     }
     public Image(String title, String date, String url) {
+
         this.title = title;
         this.date = date;
         this.url = url;
@@ -29,6 +31,7 @@ public class Image {
 
     @Override
     public String toString() {
+
         String smallUrl = url + "&pid=hp&w=384&h=216&rs=1&c=4";
         // ![](smallUrl)date [View Original](url)
         // 缩略图 日期 超链接 <= README 单元格内容
@@ -36,22 +39,26 @@ public class Image {
     }
 
     public String formatMarkdown() {
+
         return String.format("%s | [%s](%s) ", date, title, url);
     }
 
     public String toLarge() {
+
         String smallUrl = url + "&w=1000";
         return String.format("![](%s)Today: [%s](%s)", smallUrl, title, url);
     }
 
     @Override
     public int hashCode() {
+
         // 依次调用属性的 hashCode() 方法，并进行组装（序号*31 + hashCode）
         return Objects.hash(title, desc, date, url);
     }
 
     @Override
     public boolean equals(Object o) {
+
         // 判断不同对象的属性是否相等: 3 步
         // 1. promotion speed, quick back.
         if (this == o) return true;
@@ -66,18 +73,22 @@ public class Image {
     }
 
     public String getTitle() {
+
         return this.title;
     }
 
     public String getDate() {
+
         return this.date;
     }
 
     public String getUrl() {
+
         return this.url;
     }
 
     public String getDesc() {
+
         return desc;
     }
 }

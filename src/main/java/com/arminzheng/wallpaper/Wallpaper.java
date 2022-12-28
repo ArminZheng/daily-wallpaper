@@ -28,6 +28,7 @@ import java.util.stream.Collectors;
 public class Wallpaper {
 
     static {
+
         Properties env = new Properties();
         try (InputStream inputStream = Wallpaper.class.getResourceAsStream("/wallpaper.properties")) {
             env.load(inputStream);
@@ -42,12 +43,14 @@ public class Wallpaper {
     private static String URL_PREFIX;
 
     public static void main(String[] args) throws IOException {
+
         Image image = currentDailyWallpaper();
         writeFiles(image);
         writeHtml(image);
     }
 
     private static void writeHtml(Image image) throws IOException {
+
         String index =
                 new String(Files.readAllBytes(Paths.get("wallpaper.html")), StandardCharsets.UTF_8)
                         .replace("${url}", image.getUrl())
@@ -61,6 +64,7 @@ public class Wallpaper {
     }
 
     private static void writeFiles(Image image) throws IOException {
+
         List<Image> imagesList = FileUtils.readWallpaper();
         imagesList.set(0, image);
         imagesList = imagesList.stream().distinct().collect(Collectors.toList());
@@ -69,6 +73,7 @@ public class Wallpaper {
     }
 
     public static Image currentDailyWallpaper() throws IOException {
+
         String content = HttpUtils.getHttpContent(BING_API);
 
         JsonObject target = JsonParser.parseString(content).getAsJsonObject();

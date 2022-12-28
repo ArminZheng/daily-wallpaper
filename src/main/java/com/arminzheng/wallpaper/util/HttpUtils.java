@@ -22,6 +22,7 @@ public class HttpUtils {
      * @throws IOException
      */
     public static HttpURLConnection getHttpUrlConnection(String url) throws IOException {
+
         URL httpUrl = new URL(url);
         HttpURLConnection httpConnection = (HttpURLConnection) httpUrl.openConnection();
         httpConnection.setRequestProperty(
@@ -39,6 +40,7 @@ public class HttpUtils {
      * @throws IOException
      */
     public static String getHttpContent(String url) throws IOException {
+
         HttpURLConnection httpUrlConnection = getHttpUrlConnection(url);
         StringBuilder stringBuilder = new StringBuilder();
         // 获得输入流

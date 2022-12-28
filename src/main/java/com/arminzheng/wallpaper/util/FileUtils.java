@@ -30,6 +30,7 @@ public class FileUtils {
      * @throws IOException
      */
     public static List<Image> readWallpaper() throws IOException {
+
         if (!Files.exists(BING_PATH)) {
             Files.createFile(BING_PATH);
         }
@@ -57,6 +58,7 @@ public class FileUtils {
      * @throws IOException
      */
     public static void writeWallpaper(List<Image> imgList) throws IOException {
+
         if (!Files.exists(BING_PATH)) {
             Files.createFile(BING_PATH);
         }
@@ -77,6 +79,7 @@ public class FileUtils {
      * @throws IOException
      */
     public static List<Image> readReadme() throws IOException {
+
         if (!Files.exists(README_PATH)) {
             Files.createFile(README_PATH);
         }
@@ -106,6 +109,7 @@ public class FileUtils {
      * @throws IOException
      */
     public static void writeReadme(List<Image> imgList) throws IOException {
+
         if (!Files.exists(README_PATH)) {
             Files.createFile(README_PATH);
         }
