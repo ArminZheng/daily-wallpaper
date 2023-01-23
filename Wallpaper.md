@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-01-23 | [Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg) 
+
 2023-01-22 | [Mountain hare in Derbyshire, England (© Ben Hall/Minden Pictures)](https://cn.bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg) 
 
 2023-01-21 | [Kangaroo mother and baby (© Belle Ciezak/Shutterstock)](https://cn.bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg) 
