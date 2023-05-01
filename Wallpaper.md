@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-05-01 | [Korean Bell of Friendship, Los Angeles (© Carlos Marin/Getty Images)](https://cn.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg) 
+
 2023-04-30 | [Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)](https://cn.bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg) 
 
 2023-04-29 | [Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg) 
