@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-06-03 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](https://cn.bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg) 
+
 2023-06-02 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg) 
 
 2023-06-01 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg) 
