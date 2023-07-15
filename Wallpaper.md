@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-07-15 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg) 
+
 2023-07-14 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg) 
 
 2023-07-13 | [Zhangye Danxia National Geopark, Gansu province, China (© TONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_UHD.jpg) 
