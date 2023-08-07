@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-08-07 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg) 
+
 2023-08-06 | [Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)](https://cn.bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg) 
 
 2023-08-05 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](https://cn.bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg) 
