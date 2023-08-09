@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-08-09 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](https://cn.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg) 
+
 2023-08-08 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](https://cn.bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg) 
 
 2023-08-07 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg) 
