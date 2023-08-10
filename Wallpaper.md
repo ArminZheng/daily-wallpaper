@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-08-10 | [A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg) 
+
 2023-08-09 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](https://cn.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg) 
 
 2023-08-08 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](https://cn.bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg) 
