@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-09-10 | [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg) 
+
 2023-09-09 | [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg) 
 
 2023-09-08 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg) 
