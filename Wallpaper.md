@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-09-15 | [Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)](https://cn.bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg) 
+
 2023-09-14 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg) 
 
 2023-09-13 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg) 
