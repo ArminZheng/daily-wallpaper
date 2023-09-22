@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-09-22 | [Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](https://cn.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg) 
+
 2023-09-21 | [Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg) 
 
 2023-09-20 | [Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg) 
