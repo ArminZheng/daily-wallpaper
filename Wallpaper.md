@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-10-04 | [Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg) 
+
 2023-10-03 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg) 
 
 2023-10-02 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg) 
