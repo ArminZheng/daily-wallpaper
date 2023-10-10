@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-10-10 | [Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg) 
+
 2023-10-09 | [Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](https://cn.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg) 
 
 2023-10-08 | [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg) 
