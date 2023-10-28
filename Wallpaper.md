@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-10-28 | [Windmills in Castilla-La Mancha, Spain (© Getty Images)](https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg) 
+
 2023-10-27 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg) 
 
 2023-10-26 | [Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg) 
