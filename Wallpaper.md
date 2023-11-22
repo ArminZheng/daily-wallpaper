@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-11-22 | [Grand Teton National Park, Wyoming (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg) 
+
 2023-11-21 | [Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg) 
 
 2023-11-20 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](https://cn.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg) 
