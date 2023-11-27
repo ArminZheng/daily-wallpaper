@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2023-11-27 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://cn.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg) 
+
 2023-11-26 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](https://cn.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg) 
 
 2023-11-25 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg) 
