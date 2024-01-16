@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-01-16 | [Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)](https://cn.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg) 
+
 2024-01-15 | [Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](https://cn.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg) 
 
 2024-01-14 | [Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg) 
