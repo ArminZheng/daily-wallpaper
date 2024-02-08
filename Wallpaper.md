@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-02-08 | [Mount Hood, Oregon (© Inigo Cia/Getty Images)](https://cn.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg) 
+
 2024-02-07 | [St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)](https://cn.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg) 
 
 2024-02-06 | [Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg) 
