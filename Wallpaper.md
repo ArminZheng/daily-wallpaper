@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-05-04 | [Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg) 
+
 2024-05-03 | [Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](https://cn.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg) 
 
 2024-05-02 | [Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg) 
