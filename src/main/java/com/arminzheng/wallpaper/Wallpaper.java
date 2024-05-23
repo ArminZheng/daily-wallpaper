@@ -75,7 +75,13 @@ public class Wallpaper {
 
     public static Image currentDailyWallpaper() throws IOException {
 
-        String content = HttpUtils.getHttpContent(BING_API);
+        String content    = null;
+        int    maxRetries = 10;
+        int    retryCount = 0;
+        while ((content == null || content.isEmpty()) && retryCount < maxRetries) {
+            content = HttpUtils.getHttpContent(BING_API);
+            retryCount++;
+        }
 
         JsonObject target = JsonParser.parseString(content).getAsJsonObject();
         JsonArray  images = target.getAsJsonArray("images");
