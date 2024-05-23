@@ -27,20 +27,20 @@ import java.util.stream.Collectors;
  */
 public class Wallpaper {
 
+    private static String BING_API;
+    private static String URL_PREFIX;
+
     static {
 
         Properties env = new Properties();
-        try (InputStream inputStream = Wallpaper.class.getResourceAsStream("/wallpaper.properties")) {
+        try (InputStream inputStream = Wallpaper.class.getResourceAsStream(
+                "/wallpaper" + ".properties")) {
             env.load(inputStream);
-            BING_API = env.getProperty("bingUrl");
+            BING_API   = env.getProperty("bingUrl");
             URL_PREFIX = env.getProperty("urlPrefix");
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (IOException ignore) {
         }
     }
-
-    private static String BING_API;
-    private static String URL_PREFIX;
 
     public static void main(String[] args) throws IOException {
 
@@ -51,12 +51,13 @@ public class Wallpaper {
 
     private static void writeHtml(Image image) throws IOException {
 
-        String index =
-                new String(Files.readAllBytes(Paths.get("wallpaper.html")), StandardCharsets.UTF_8)
-                        .replace("${url}", image.getUrl())
-                        .replace("${title}",
-                                String.format("%s %s", image.getTitle(), image.getDate()))
-                        .replace("${desc}", image.getDesc());
+        String index = new String(Files.readAllBytes(Paths.get("wallpaper.html")),
+                                  StandardCharsets.UTF_8).replace("${url}", image.getUrl())
+                                                         .replace("${title}",
+                                                                  String.format("%s %s",
+                                                                                image.getTitle(),
+                                                                                image.getDate()))
+                                                         .replace("${desc}", image.getDesc());
         Path indexPath = Paths.get("index.html");
         Files.deleteIfExists(indexPath);
         Files.createFile(indexPath);
@@ -77,17 +78,16 @@ public class Wallpaper {
         String content = HttpUtils.getHttpContent(BING_API);
 
         JsonObject target = JsonParser.parseString(content).getAsJsonObject();
-        JsonArray images = target.getAsJsonArray("images");
+        JsonArray  images = target.getAsJsonArray("images");
         target = images.get(0).getAsJsonObject();
 
         String url = URL_PREFIX + target.get("url").getAsString();
         url = url.substring(0, url.indexOf("&"));
 
-        //noinspection SpellCheckingInspection
+        // noinspection SpellCheckingInspection
         String startdate = target.get("startdate").getAsString();
-        startdate =
-                LocalDate.parse(startdate, DateTimeFormatter.BASIC_ISO_DATE)
-                        .format(DateTimeFormatter.ISO_LOCAL_DATE);
+        startdate = LocalDate.parse(startdate, DateTimeFormatter.BASIC_ISO_DATE)
+                             .format(DateTimeFormatter.ISO_LOCAL_DATE);
 
         String copyright = target.get("copyright").getAsString();
 
@@ -95,4 +95,5 @@ public class Wallpaper {
 
         return new Image(copyright, desc, startdate, url);
     }
+
 }

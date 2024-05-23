@@ -32,7 +32,7 @@
                 </configuration>
                 <executions>
                     <execution>
-                        <!-- 绑定 package，执行 shade:shade -->
+                        <!-- bind package, execute shade: shade -->
                         <phase>package</phase>
                         <goals>
                             <goal>shade</goal>

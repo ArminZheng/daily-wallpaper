@@ -18,23 +18,27 @@ public class Image {
     public Image(String title, String desc, String date, String url) {
 
         this.title = title;
-        this.desc = desc;
-        this.date = date;
-        this.url = url;
+        this.desc  = desc;
+        this.date  = date;
+        this.url   = url;
     }
+
     public Image(String title, String date, String url) {
 
         this.title = title;
-        this.date = date;
-        this.url = url;
+        this.date  = date;
+        this.url   = url;
     }
 
+    /**
+     * for README cell content.
+     *
+     * @return ![](thumbnail url)date [View Original](hyperlink)
+     */
     @Override
     public String toString() {
 
         String smallUrl = url + "&pid=hp&w=384&h=216&rs=1&c=4";
-        // ![](smallUrl)date [View Original](url)
-        // 缩略图 日期 超链接 <= README 单元格内容
         return String.format("![](%s)%s [View Original](%s)", smallUrl, date, url);
     }
 
@@ -52,24 +56,24 @@ public class Image {
     @Override
     public int hashCode() {
 
-        // 依次调用属性的 hashCode() 方法，并进行组装（序号*31 + hashCode）
+        // Call the hashCode () method of the property in turn and assemble it.
+        // serial number * 31 + hashCode
         return Objects.hash(title, desc, date, url);
     }
 
     @Override
     public boolean equals(Object o) {
 
-        // 判断不同对象的属性是否相等: 3 步
+        // Determine whether the properties of different objects are equal: 3 steps
         // 1. promotion speed, quick back.
         if (this == o) return true;
-        // 2. 属性判断预处理
+        // 2. Class judgement
         if (o == null || getClass() != o.getClass()) return false;
-        Image images = (Image) o;
-        // 3. 进行属性判断（调用属性的 equals 方法，传入对比的属性）
-        return Objects.equals(title, images.title)
-                && Objects.equals(desc, images.desc)
-                && Objects.equals(date, images.date)
-                && Objects.equals(url, images.url);
+        Image images = (Image)o;
+        // 3. Perform property judgment
+        // call the equals method of the property and pass in the compared property
+        return Objects.equals(title, images.title) && Objects.equals(desc, images.desc)
+               && Objects.equals(date, images.date) && Objects.equals(url, images.url);
     }
 
     public String getTitle() {
@@ -91,4 +95,5 @@ public class Image {
 
         return desc;
     }
+
 }
