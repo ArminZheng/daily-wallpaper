@@ -33,9 +33,10 @@ public class Wallpaper {
     static {
 
         Properties env = new Properties();
-        try (InputStream inputStream = Wallpaper.class.getResourceAsStream(
-                "/wallpaper" + ".properties")) {
-            env.load(inputStream);
+        try (InputStream properties =
+                     Wallpaper.class.getResourceAsStream("/wallpaper.properties")) {
+
+            env.load(properties);
             BING_API   = env.getProperty("bingUrl");
             URL_PREFIX = env.getProperty("urlPrefix");
         } catch (IOException ignore) {
