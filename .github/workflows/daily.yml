@@ -33,9 +33,9 @@ jobs:
           COMMIT_EMAIL: ${{ secrets.EMAIL }}
         run: |
           git config --local user.email "$COMMIT_EMAIL"
-          git config --local user.name "arminzheng"
+          git config --local user.name "armin"
           git add -A
-          git commit -m "feat:Update Daily Wallpaper"
+          git commit -m "feat: Update Daily Wallpaper"
           mkdir -p ~/.ssh
           echo "$ACTION_WORK_KEY" > ~/.ssh/id_rsa
           chmod -R 700 ~/.ssh
