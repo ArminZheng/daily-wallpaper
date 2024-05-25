@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-05-25 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg) 
+
 2024-05-24 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg) 
 
 2024-05-23 | [Indian star tortoise, Sri Lanka (© Robin Chittenden/Minden Pictures)](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg) 
