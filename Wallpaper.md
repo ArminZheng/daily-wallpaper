@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-06-13 | [Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg) 
+
 2024-06-12 | [Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg) 
 
 2024-06-11 | [Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg) 
