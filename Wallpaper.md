@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-06-14 | [Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](https://www.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg) 
+
 2024-06-13 | [Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](https://www.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg) 
 
 2024-06-12 | [Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg) 
