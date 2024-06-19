@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-06-19 | [Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](https://www.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg) 
+
 2024-06-18 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg) 
 
 2024-06-17 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://www.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg) 
