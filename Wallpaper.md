@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-06-24 | [Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg) 
+
 2024-06-23 | [Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg) 
 
 2024-06-22 | [Amazon rainforest, Brazil (© Claus Meyer/plainpicture)](https://www.bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg) 
