@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-07-07 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](https://www.bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_UHD.jpg) 
+
 2024-07-06 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](https://www.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg) 
 
 2024-07-05 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](https://www.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg) 
