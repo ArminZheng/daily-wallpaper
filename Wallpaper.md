@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-07-10 | [Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg) 
+
 2024-07-09 | [Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg) 
 
 2024-07-08 | [Blueberries growing in the wild (© Baac3nes/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg) 
