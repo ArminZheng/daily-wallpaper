@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-07-22 | [Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg) 
+
 2024-07-21 | [Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg) 
 
 2024-07-20 | [The moon (© Victor Blum/Getty Images)](https://www.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg) 
