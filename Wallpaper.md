@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-08-01 | [Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg) 
+
 2024-07-31 | [Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg) 
 
 2024-07-30 | [San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg) 
