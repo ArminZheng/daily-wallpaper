@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-08-04 | [Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg) 
+
 2024-08-03 | [Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](https://www.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg) 
 
 2024-08-02 | [Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)](https://www.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg) 
