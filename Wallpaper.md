@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-08-06 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg) 
+
 2024-08-05 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg) 
 
 2024-08-04 | [Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg) 
