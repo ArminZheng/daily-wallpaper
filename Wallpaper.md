@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-08-08 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://www.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg) 
+
 2024-08-07 | [St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg) 
 
 2024-08-06 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg) 
