@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-08-20 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg) 
+
 2024-08-19 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](https://www.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg) 
 
 2024-08-18 | [Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg) 
