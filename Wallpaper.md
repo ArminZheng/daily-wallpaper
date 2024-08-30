@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-08-30 | [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg) 
+
 2024-08-29 | [Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg) 
 
 2024-08-28 | [Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg) 
