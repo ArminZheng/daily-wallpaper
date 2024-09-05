@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-09-05 | [Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)](https://www.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg) 
+
 2024-09-04 | [Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](https://www.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg) 
 
 2024-09-03 | [Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg) 
