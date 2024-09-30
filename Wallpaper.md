@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-09-30 | [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg) 
+
 2024-09-29 | [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg) 
 
 2024-09-28 | [Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg) 
