@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-10-03 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg) 
+
 2024-10-02 | [Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)](https://www.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg) 
 
 2024-10-01 | [Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg) 
