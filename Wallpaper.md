@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-10-21 | [Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg) 
+
 2024-10-20 | [Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg) 
 
 2024-10-19 | [Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg) 
