@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-11-09 | [Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg) 
+
 2024-11-08 | [Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)](https://www.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg) 
 
 2024-11-07 | [Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg) 
