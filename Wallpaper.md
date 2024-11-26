@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-11-26 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](https://www.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg) 
+
 2024-11-25 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg) 
 
 2024-11-24 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg) 
