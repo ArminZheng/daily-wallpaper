@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-12-02 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg) 
+
 2024-12-01 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg) 
 
 2024-11-30 | [Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg) 
