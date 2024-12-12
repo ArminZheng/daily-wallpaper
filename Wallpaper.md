@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-12-12 | [Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg) 
+
 2024-12-11 | [Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)](https://www.bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg) 
 
 2024-12-10 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](https://www.bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg) 
