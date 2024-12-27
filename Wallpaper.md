@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2024-12-27 | [Lake Bled, Slovenia (© Kesu01/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg) 
+
 2024-12-26 | [Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg) 
 
 2024-12-25 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg) 
