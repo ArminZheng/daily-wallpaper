@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-01-24 | [Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](https://www.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg) 
+
 2025-01-23 | [Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://www.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg) 
 
 2025-01-22 | [Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](https://www.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg) 
