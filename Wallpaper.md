@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-02-08 | [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg) 
+
 2025-02-07 | [Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](https://www.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg) 
 
 2025-02-05 | [Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](https://www.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg) 
