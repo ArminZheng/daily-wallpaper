@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-02-13 | [Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)](https://www.bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg) 
+
 2025-02-12 | [Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](https://www.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg) 
 
 2025-02-11 | [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg) 
