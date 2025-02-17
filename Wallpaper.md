@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-02-17 | [The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](https://www.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg) 
+
 2025-02-16 | [Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)](https://www.bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg) 
 
 2025-02-15 | [Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](https://www.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg) 
