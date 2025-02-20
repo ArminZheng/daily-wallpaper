@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-02-20 | [Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg) 
+
 2025-02-19 | [European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](https://www.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg) 
 
 2025-02-18 | [Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)](https://www.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg) 
