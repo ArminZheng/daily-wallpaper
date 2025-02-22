@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-02-22 | [The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg) 
+
 2025-02-21 | [Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg) 
 
 2025-02-20 | [Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg) 
