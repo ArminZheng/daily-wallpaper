@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-02-27 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg) 
+
 2025-02-26 | [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg) 
 
 2025-02-25 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg) 
