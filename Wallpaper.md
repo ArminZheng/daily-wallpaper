@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-02-28 | [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg) 
+
 2025-02-27 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg) 
 
 2025-02-26 | [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg) 
