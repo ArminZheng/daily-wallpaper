@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-03-18 | [Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)](https://www.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg) 
+
 2025-03-17 | [Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg) 
 
 2025-03-16 | [Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)](https://www.bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg) 
