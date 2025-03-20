@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-03-20 | [Spring daffodils glowing in morning light (© LedyX/Shutterstock)](https://www.bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg) 
+
 2025-03-19 | [A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)](https://www.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg) 
 
 2025-03-18 | [Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)](https://www.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg) 
