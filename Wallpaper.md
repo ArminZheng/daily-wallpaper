@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-04-16 | [Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg) 
+
 2025-04-15 | [Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg) 
 
 2025-04-14 | [Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg) 
