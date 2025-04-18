@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-04-18 | [Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg) 
+
 2025-04-17 | [Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)](https://www.bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg) 
 
 2025-04-16 | [Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg) 
