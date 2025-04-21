@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-04-21 | [Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](https://www.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg) 
+
 2025-04-20 | [Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](https://www.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg) 
 
 2025-04-19 | [Zion National Park, Utah (© Simon Dannhauer/Getty Images)](https://www.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg) 
