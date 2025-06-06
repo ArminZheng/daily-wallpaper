@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-06-06 | [Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](https://www.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg) 
+
 2025-06-05 | [Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](https://www.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg) 
 
 2025-06-04 | [The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg) 
