@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-06-13 | [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg) 
+
 2025-06-12 | [Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](https://www.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg) 
 
 2025-06-11 | [Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg) 
