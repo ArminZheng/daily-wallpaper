@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-06-16 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg) 
+
 2025-06-15 | [Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](https://www.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg) 
 
 2025-06-14 | [Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](https://www.bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg) 
