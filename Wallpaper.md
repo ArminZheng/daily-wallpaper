@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-06-20 | [Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg) 
+
 2025-06-19 | [Texas State Capitol in Austin (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg) 
 
 2025-06-18 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg) 
