@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-07-28 | [Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)](https://www.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg) 
+
 2025-07-27 | [School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg) 
 
 2025-07-26 | [Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)](https://www.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg) 
