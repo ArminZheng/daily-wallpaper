@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-04 | [Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](https://www.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg) 
+
 2025-08-03 | [Sunflowers in a field in summer (© Arsgera/Shutterstock)](https://www.bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg) 
 
 2025-08-02 | [Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg) 
