@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-05 | [Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg) 
+
 2025-08-04 | [Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](https://www.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg) 
 
 2025-08-03 | [Sunflowers in a field in summer (© Arsgera/Shutterstock)](https://www.bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg) 
