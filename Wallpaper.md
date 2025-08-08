@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-08 | [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](https://www.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg) 
+
 2025-08-07 | [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](https://www.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg) 
 
 2025-08-06 | [Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg) 
