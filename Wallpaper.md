@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-09 | [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](https://www.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg) 
+
 2025-08-08 | [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](https://www.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg) 
 
 2025-08-07 | [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](https://www.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg) 
