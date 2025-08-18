@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-18 | [Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg) 
+
 2025-08-17 | [Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg) 
 
 2025-08-16 | [Colorful beehives in Italy (© Roberto Caucino/Shutterstock)](https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg) 
