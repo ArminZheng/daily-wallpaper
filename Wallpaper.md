@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-23 | [St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg) 
+
 2025-08-22 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](https://www.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg) 
 
 2025-08-21 | [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](https://www.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg) 
