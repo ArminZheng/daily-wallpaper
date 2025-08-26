@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-26 | [Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg) 
+
 2025-08-25 | [Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg) 
 
 2025-08-24 | [European fallow deer, England (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg) 
