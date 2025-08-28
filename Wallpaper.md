@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-28 | [Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)](https://www.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg) 
+
 2025-08-27 | [Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg) 
 
 2025-08-26 | [Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg) 
