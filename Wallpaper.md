@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-08-31 | [Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](https://www.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg) 
+
 2025-08-30 | [Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg) 
 
 2025-08-29 | [Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg) 
