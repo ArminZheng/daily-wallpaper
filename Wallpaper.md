@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-09-04 | [Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)](https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg) 
+
 2025-09-03 | [Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)](https://www.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg) 
 
 2025-09-02 | [Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg) 
