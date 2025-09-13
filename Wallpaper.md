@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-09-13 | [Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg) 
+
 2025-09-12 | [Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg) 
 
 2025-09-11 | [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](https://www.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg) 
