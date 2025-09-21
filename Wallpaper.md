@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-09-21 | [Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://www.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg) 
+
 2025-09-20 | [Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg) 
 
 2025-09-19 | [Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://www.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg) 
