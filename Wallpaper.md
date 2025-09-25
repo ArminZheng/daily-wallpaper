@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-09-25 | [Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg) 
+
 2025-09-24 | [Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](https://www.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg) 
 
 2025-09-23 | [Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg) 
