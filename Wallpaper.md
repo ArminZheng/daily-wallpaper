@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-10-04 | [ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg) 
+
 2025-10-03 | [Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg) 
 
 2025-10-02 | [Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)](https://www.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg) 
