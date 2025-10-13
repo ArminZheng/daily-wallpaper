@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-10-13 | [House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)](https://www.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg) 
+
 2025-10-12 | [Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)](https://www.bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg) 
 
 2025-10-11 | [Wood duck hen (© ps50ace/iStock/Getty Images)](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg) 
