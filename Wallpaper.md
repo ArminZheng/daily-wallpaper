@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-10-15 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg) 
+
 2025-10-14 | [Village of Oia, Santorini, Greece (© f9photos/Getty Images)](https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg) 
 
 2025-10-13 | [House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)](https://www.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg) 
