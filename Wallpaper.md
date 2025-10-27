@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-10-27 | [Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)](https://www.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg) 
+
 2025-10-26 | [Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)](https://www.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg) 
 
 2025-10-25 | [Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg) 
