@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-11-04 | [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg) 
+
 2025-11-03 | [Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg) 
 
 2025-11-02 | [Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg) 
