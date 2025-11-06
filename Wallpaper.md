@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-11-06 | [Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](https://www.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg) 
+
 2025-11-05 | [Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg) 
 
 2025-11-04 | [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg) 
