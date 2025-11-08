@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-11-08 | [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg) 
+
 2025-11-07 | [Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg) 
 
 2025-11-06 | [Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](https://www.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg) 
