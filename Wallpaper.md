@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-11-12 | [Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg) 
+
 2025-11-11 | [Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg) 
 
 2025-11-10 | [Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg) 
