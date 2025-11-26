@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-11-26 | [Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg) 
+
 2025-11-25 | [The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg) 
 
 2025-11-24 | [Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)](https://www.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg) 
