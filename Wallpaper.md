@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-11-30 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg) 
+
 2025-11-29 | [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://www.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg) 
 
 2025-11-28 | [Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://www.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg) 
