@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-12-02 | [Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg) 
+
 2025-12-01 | [Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](https://www.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg) 
 
 2025-11-30 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](https://www.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg) 
