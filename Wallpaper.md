@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-12-06 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg) 
+
 2025-12-05 | [Maya site of Copán, Honduras (© diegograndi/Getty Images)](https://www.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg) 
 
 2025-12-04 | [Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg) 
