@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-12-10 | [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg) 
+
 2025-12-09 | [Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://www.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg) 
 
 2025-12-08 | [Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg) 
