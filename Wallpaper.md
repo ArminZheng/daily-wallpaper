@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-12-12 | [Spotted poinsettia (© DigiPub/Getty Images)](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg) 
+
 2025-12-11 | [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](https://www.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg) 
 
 2025-12-10 | [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://www.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg) 
