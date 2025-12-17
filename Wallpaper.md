@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-12-17 | [Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg) 
+
 2025-12-16 | [Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg) 
 
 2025-12-15 | [Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg) 
