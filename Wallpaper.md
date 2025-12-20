@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-12-20 | [Christmas star lanterns, Germany (© artas/Getty Images)](https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg) 
+
 2025-12-19 | [Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg) 
 
 2025-12-18 | [Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg) 
