@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2025-12-27 | [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg) 
+
 2025-12-26 | [Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](https://www.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg) 
 
 2025-12-25 | [Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg) 
