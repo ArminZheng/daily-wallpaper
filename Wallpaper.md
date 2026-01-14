@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-01-14 | [The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg) 
+
 2026-01-13 | [Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg) 
 
 2026-01-12 | [Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](https://www.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg) 
