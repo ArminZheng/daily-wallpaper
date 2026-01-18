@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-01-18 | [White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg) 
+
 2026-01-17 | [Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](https://www.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg) 
 
 2026-01-16 | [Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg) 
