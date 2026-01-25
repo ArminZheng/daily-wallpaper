@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-01-25 | [Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](https://www.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg) 
+
 2026-01-24 | [Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](https://www.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg) 
 
 2026-01-23 | [Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://www.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg) 
