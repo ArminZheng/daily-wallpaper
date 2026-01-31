@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-01-31 | [Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg) 
+
 2026-01-30 | [St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg) 
 
 2026-01-29 | [The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg) 
