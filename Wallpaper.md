@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-02-03 | [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg) 
+
 2026-02-02 | [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg) 
 
 2026-02-01 | [US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg) 
