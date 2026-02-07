@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-02-07 | [Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg) 
+
 2026-02-06 | [Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)](https://www.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg) 
 
 2026-02-05 | [Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)](https://www.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg) 
