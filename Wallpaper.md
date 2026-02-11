@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-02-11 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg) 
+
 2026-02-10 | [Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://www.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg) 
 
 2026-02-09 | [Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg) 
