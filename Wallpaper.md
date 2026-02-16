@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-02-16 | [Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg) 
+
 2026-02-15 | [Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg) 
 
 2026-02-14 | [Bleeding hearts (© Dorene Hookey/Cavan Images)](https://www.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg) 
