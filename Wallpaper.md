@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-02-24 | [Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg) 
+
 2026-02-23 | [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg) 
 
 2026-02-22 | [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg) 
