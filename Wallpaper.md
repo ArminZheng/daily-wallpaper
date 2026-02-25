@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-02-25 | [Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)](https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg) 
+
 2026-02-24 | [Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg) 
 
 2026-02-23 | [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg) 
