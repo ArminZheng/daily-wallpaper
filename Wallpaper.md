@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-03-02 | [Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](https://www.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg) 
+
 2026-03-01 | [Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg) 
 
 2026-02-28 | [Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg) 
