@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-03-08 | [Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)](https://www.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg) 
+
 2026-03-07 | [Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg) 
 
 2026-03-06 | [The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)](https://www.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg) 
