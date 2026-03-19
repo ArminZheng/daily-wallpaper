@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-03-19 | [Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)](https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg) 
+
 2026-03-18 | [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg) 
 
 2026-03-17 | [Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](https://www.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg) 
