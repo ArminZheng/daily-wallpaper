@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-04-02 | [Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg) 
+
 2026-04-01 | [Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg) 
 
 2026-03-31 | [Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)](https://www.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg) 
