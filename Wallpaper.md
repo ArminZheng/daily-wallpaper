@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-04-08 | [Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg) 
+
 2026-04-07 | [Beaver, Germany (© Andyworks/Getty Images)](https://www.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg) 
 
 2026-04-06 | [Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)](https://www.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg) 
