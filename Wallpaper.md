@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-04-15 | [The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)](https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg) 
+
 2026-04-14 | [Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)](https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg) 
 
 2026-04-13 | [Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg) 
