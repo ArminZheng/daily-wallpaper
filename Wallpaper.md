@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-04-20 | [Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg) 
+
 2026-04-19 | [Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg) 
 
 2026-04-18 | [Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg) 
