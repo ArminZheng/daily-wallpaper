@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-04-29 | [Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://www.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg) 
+
 2026-04-28 | [Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg) 
 
 2026-04-27 | [The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](https://www.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg) 
