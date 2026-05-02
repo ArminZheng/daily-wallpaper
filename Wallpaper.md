@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-05-02 | [Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg) 
+
 2026-05-01 | [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg) 
 
 2026-04-30 | [Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://www.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg) 
