@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-05-03 | [Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg) 
+
 2026-05-02 | [Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg) 
 
 2026-05-01 | [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg) 
