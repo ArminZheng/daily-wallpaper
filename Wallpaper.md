@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-05-25 | [Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)](https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg) 
+
 2026-05-24 | [Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)](https://www.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg) 
 
 2026-05-23 | [Turtles with butterflies (© Patrick Gallet/Getty Images)](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg) 
