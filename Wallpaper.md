@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-06-10 | [Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg) 
+
 2026-06-09 | [Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg) 
 
 2026-06-08 | [Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg) 
