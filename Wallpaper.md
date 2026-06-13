@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-06-13 | [Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg) 
+
 2026-06-12 | [European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg) 
 
 2026-06-11 | [Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg) 
