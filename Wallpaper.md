@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-07-01 | [Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg) 
+
 2026-06-30 | [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg) 
 
 2026-06-29 | [Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg) 
