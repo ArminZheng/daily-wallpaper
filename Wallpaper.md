@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-07-02 | [Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg) 
+
 2026-07-01 | [Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg) 
 
 2026-06-30 | [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg) 
