@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-08-12 | [A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg) 
+
 2026-08-11 | [Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg) 
 
 2026-08-10 | [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](https://www.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg) 
