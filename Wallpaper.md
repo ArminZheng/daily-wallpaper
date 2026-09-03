@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-09-03 | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg) 
+
 2026-09-02 | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg) 
 
 2026-09-01 | [Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg) 
