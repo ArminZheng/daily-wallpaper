@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-09-04 | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg) 
+
 2026-09-03 | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg) 
 
 2026-09-02 | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg) 
