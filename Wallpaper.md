@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-09-05 | [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg) 
+
 2026-09-04 | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg) 
 
 2026-09-03 | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg) 
