@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-09-24 | [Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg) 
+
 2026-09-23 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](https://www.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg) 
 
 2026-09-22 | [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](https://www.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg) 
