@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-09-27 | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg) 
+
 2026-09-26 | [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg) 
 
 2026-09-25 | [Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg) 
