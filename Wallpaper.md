@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-09-29 | [The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg) 
+
 2026-09-28 | [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg) 
 
 2026-09-27 | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg) 
