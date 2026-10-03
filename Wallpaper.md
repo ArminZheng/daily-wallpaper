@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-10-03 | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg) 
+
 2026-10-02 | [Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg) 
 
 2026-10-01 | [Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg) 
