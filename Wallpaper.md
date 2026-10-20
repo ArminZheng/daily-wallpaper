@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-10-20 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg) 
+
 2026-10-19 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg) 
 
 2026-10-18 | [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg) 
