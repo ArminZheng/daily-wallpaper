@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-10-22 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg) 
+
 2026-10-21 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg) 
 
 2026-10-20 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg) 
