@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-10-24 | [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg) 
+
 2026-10-23 | [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg) 
 
 2026-10-22 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg) 
