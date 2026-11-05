@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-11-05 | [Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg) 
+
 2026-11-04 | [People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg) 
 
 2026-11-03 | [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg) 
