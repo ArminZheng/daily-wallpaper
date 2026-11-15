@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-11-15 | [Frozen azalea with red leaves (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg) 
+
 2026-11-14 | [Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg) 
 
 2026-11-13 | [Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg) 
