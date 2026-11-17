@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-11-17 | [Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg) 
+
 2026-11-16 | [Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg) 
 
 2026-11-15 | [Frozen azalea with red leaves (© avoferten/Shutterstock)](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg) 
