@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-11-18 | [Pair of barn owls (© Zahoor Salmi/Getty Images)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg) 
+
 2026-11-17 | [Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg) 
 
 2026-11-16 | [Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg) 
