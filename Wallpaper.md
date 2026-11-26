@@ -1,5 +1,7 @@
 ## Wallpaper List
 
+2026-11-26 | [Two wild tom turkeys (© davidsdodd/Getty Images)](https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg) 
+
 2026-11-25 | [Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)](https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg) 
 
 2026-11-24 | [Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg) 
